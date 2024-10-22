@@ -2,7 +2,7 @@
 
 1. Tipos de dados e operadores aritméticos, lógicos e relacionais
     [X] 1. [Soma Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1003)
-    [ ] 2. [Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007)
+    [X] 2. [Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007)
     [ ] 3. [Área do círculo](https://www.beecrowd.com.br/judge/pt/problems/view/1002)
     [ ] 4. [Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011)
     [ ] 5. [Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006)
@@ -10,10 +10,10 @@
     [ ] 7. [Gasto de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1017)
     [ ] 8. [Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019)
     [ ] 9. [O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013)
-    [ ] 10. [Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015)
+    [X] 10. [Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015)
 
 2. Condicionais
-    [ ] 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
+    [X] 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
     [ ] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
     [ ] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
     [ ] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
