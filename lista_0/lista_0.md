@@ -14,10 +14,10 @@
 
 2. Condicionais
     [X] 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
-    [ ] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
-    [ ] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
-    [ ] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
-    [ ] 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
+    [X] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
+    [X] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
+    [X] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
+    [X] 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
     [ ] 6. [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)
     [ ] 7. [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
     [ ] 8. [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036)
@@ -25,16 +25,16 @@
     [ ] 10. [Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)
 
 3. Laços
-    [ ] 1. [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059)
-    [ ] 2. [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113)
-    [ ] 3. [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072)
+    [X] 1. [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059)
+    [?] 2. [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113)
+    [X] 3. [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072)
     [ ] 4. [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021)
     [ ] 5. [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132)
     [ ] 6. [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151)
     [ ] 7. [Idades](https://www.beecrowd.com.br/judge/pt/problems/view/1154)
     [ ] 8. [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160)
     [ ] 9. [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164)
-    [ ] 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)
+    [X] 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)
 
 4. Vetores e matrizes
     [ ] 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
